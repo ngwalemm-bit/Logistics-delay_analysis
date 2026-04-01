@@ -9,7 +9,7 @@ The dataset consists of 4,000 shipment records and 25 products, including detail
 # Tools Used
 •	SQL (PostgreSQL)
 •	Excel
-•	(later Power BI)
+•	Power BI
 
 # Data Cleaning & Exploration Process
 
