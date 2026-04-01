@@ -125,7 +125,7 @@ Identifying inefficiencies across transport modes, carriers, and routes allows f
 ## Conclusion
 This analysis highlights key inefficiencies in logistics operations and provides a data-driven foundation for improving delivery performance. Ultimately, this project demonstrates how data analysis can be used to uncover operational inefficiencies and support data-driven decision-making in supply chain management.
 
- ### Key Takeaways
+ #### Key Takeaways
 •	Sea freight dominates total delays
 •	Road transport shows unexpected inefficiencies
 •	Carrier performance varies significantly
