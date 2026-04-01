@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Product_Category,Manufacturing_City,Size,Color,SKU,Unit_Price,Weight_KG
+1,Product_1,Furniture,New York,Medium,Black,619399,1556.94,71.62
+2,Product_2,Chemicals,Shanghai,Large,Black,640730,112.98,1.62
+3,Product_3,Electronics,Berlin,Medium,Red,972397,637.81,63.1
+4,Product_4,Chemicals,Shanghai,Small,Red,173756,1833.57,53.89
+5,Product_5,Electronics,Johannesburg,Small,Green,631070,1876.99,20.98
+6,Product_6,Furniture,Rotterdam,Small,Black,863849,997.33,19.9
+7,Product_7,Furniture,Mumbai,Small,Green,767132,1939.14,44.58
+8,Product_8,Machinery,Shanghai,Small,Red,702278,1066.95,75.73
+9,Product_9,Furniture,Johannesburg,Small,Green,329674,295.47,16.49
+10,Product_10,Electronics,Berlin,Medium,Blue,792369,1087.71,20.62
+11,Product_11,Chemicals,New York,Medium,Red,208595,182.31,72.29
+12,Product_12,Chemicals,Shanghai,Small,Black,730365,607.46,59.97
+13,Product_13,Food,Berlin,Small,Green,396418,135.48,14.92
+14,Product_14,Food,Johannesburg,Large,Green,874195,1642.67,3.39
+15,Product_15,Chemicals,New York,Small,Blue,684918,1089.06,36.09
+16,Product_16,Furniture,Johannesburg,Medium,White,138035,1987.55,31.29
+17,Product_17,Clothing,Rotterdam,Large,Green,435734,1793.58,67.08
+18,Product_18,Clothing,Berlin,Small,Blue,691580,1227.67,77.92
+19,Product_19,Food,New York,Large,White,400700,587.49,56.13
+20,Product_20,Clothing,Shanghai,Large,Red,635333,401.14,19.49
+21,Product_21,Chemicals,Mumbai,Large,Blue,764418,1250.73,54.88
+22,Product_22,Furniture,Rotterdam,Small,Blue,503521,1506.7,19.77
+23,Product_23,Clothing,Shanghai,Medium,Red,465167,1867.48,44.96
+24,Product_24,Food,Berlin,Small,Blue,334108,1651.56,8.88
+25,Product_25,Furniture,Mumbai,Medium,Red,457690,881.05,36.2
