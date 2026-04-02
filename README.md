@@ -9,7 +9,7 @@ The dataset consists of 4,000 shipment records and 25 products, including detail
 ## Tools Used
 •	SQL (PostgreSQL)
 •	Excel
-•	Power BI
+•	(later on) Power BI
 
 ## Data Cleaning & Exploration Process
 
@@ -121,6 +121,9 @@ Identifying inefficiencies across transport modes, carriers, and routes allows f
 •	Consider reallocating shipment volumes towards more efficient carriers to improve delivery performance.
 •	Improve documentation and customs processes
 •	Monitor high-risk routes like Netherlands & USA
+
+## Dashboard Status
+A Power BI dashboard will be added in the next phase of this project to visualize key findings across transport modes, carriers, routes, delay reasons, and product categories. The current project focuses on exploratory analysis and SQL-based insights.
 
 ## Conclusion
 This analysis highlights key inefficiencies in logistics operations and provides a data-driven foundation for improving delivery performance. Ultimately, this project demonstrates how data analysis can be used to uncover operational inefficiencies and support data-driven decision-making in supply chain management.
