@@ -115,7 +115,9 @@ The dashboard provides a visual summary of logistics performance, highlighting k
 
 ### Dashboard Overview:
 
-![App Screenshot](images/screenshot.png)
+<p align="center">
+  <img src="images/logistics_delay_analysis_visual.png" alt="App Screenshot" width="600"/>
+</p>
 
 ## Business Impact
 
