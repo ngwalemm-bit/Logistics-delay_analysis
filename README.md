@@ -134,9 +134,6 @@ Use this exact pattern in your README:
 <img src="images/eda1.png" alt="App Screenshot" width="700">
 
 
-<img src="https://raw.githubusercontent.com/ngwalemm-bit/Logistics-delay-analysis/main/images/eda1.png" alt="App Screenshot" width="700">
-
-
 ## Business Impact
 
 Delays in shipments can lead to increased operational costs, reduced customer satisfaction, and potential loss of business.
