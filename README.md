@@ -117,6 +117,62 @@ The dashboard provides a visual summary of logistics performance, highlighting k
 
 ![App Screenshot](images/edal.png)
 
+That means GitHub is finding the tag, but not loading the image file correctly.
+
+Most likely causes:
+
+1. Wrong path
+2. Wrong filename or capitalization
+3. Using a GitHub page URL instead of the image file path
+4. Image not actually committed
+5. Bad HTML syntax
+
+Use this exact pattern in your README:
+
+## Dashboard Overview
+![App Screenshot](images/eda1.png)
+
+Or with HTML:
+
+<img src="images/eda1.png" alt="App Screenshot" width="700">
+
+What not to use:
+
+<img src="https://github.com/yourname/repo/blob/main/images/eda1.png">
+
+That blob/... page is usually the problem. GitHub README wants either:
+
+* a relative repo path like images/eda1.png, or
+* a raw image URL
+
+So fix it like this:
+
+Best fix
+
+If your file is in images/eda1.png, put:
+
+![App Screenshot](images/eda1.png)
+
+If you want full URL
+
+Use the raw URL format:
+
+<img src="https://raw.githubusercontent.com/ngwalemm-bit/Logistics-delay-analysis/main/images/eda1.png" alt="App Screenshot" width="700">
+
+Also check these carefully:
+
+* eda1.png vs ed1.png
+* images vs Images
+* .png vs .jpg
+* whether the file is actually inside the main branch
+
+A quick test:
+
+* open the image directly in GitHub by clicking it in the repo
+* if it does not open, the path is wrong
+* if it opens, copy the relative path and use that in the README
+
+Paste your current README image line here and I’ll correct it exactly.
 ## Business Impact
 
 Delays in shipments can lead to increased operational costs, reduced customer satisfaction, and potential loss of business.
