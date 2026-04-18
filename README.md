@@ -115,7 +115,7 @@ The dashboard provides a visual summary of logistics performance, highlighting k
 
 ### Dashboard Overview:
 
-<img src="https://github.com/yourname/repo/blob/main/images/edal.png">
+<img src="https://github.com/yourname/repo/blob/main/images/eda1.png">
 
 ## Business Impact
 
