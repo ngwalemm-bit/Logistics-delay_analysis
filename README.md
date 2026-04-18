@@ -7,9 +7,9 @@ The goal of this project is to analyse shipment delays across transport modes, c
 The dataset consists of 4,000 shipment records and 25 products, including details on transport mode, carrier, delay days, and shipment routes.
 
 ## Tools Used
-•	SQL (PostgreSQL)
-•	Excel
-•	Power BI
+#### •	SQL (PostgreSQL)
+#### •	Excel
+##### •	Power BI
 
 ## Data Cleaning & Exploration Process
 
