@@ -109,6 +109,12 @@ GROUP BY p.product_category
 ORDER BY avg_delay_days DESC;
 ```
 
+## Power BI Dashboard
+
+The dashboard provides a visual summary of logistics performance, highlighting key delay drivers and operational bottlenecks.
+
+### Dashboard Overview:
+
 
 ## Business Impact
 
