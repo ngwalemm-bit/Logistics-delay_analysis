@@ -9,7 +9,7 @@ The dataset consists of 4,000 shipment records and 25 products, including detail
 ## Tools Used
 •	SQL (PostgreSQL)
 •	Excel
-•	(later on) Power BI
+•	Power BI
 
 ## Data Cleaning & Exploration Process
 
@@ -115,6 +115,7 @@ The dashboard provides a visual summary of logistics performance, highlighting k
 
 ### Dashboard Overview:
 
+![App Screenshot](images/screenshot.png)
 
 ## Business Impact
 
